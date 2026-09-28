@@ -11,6 +11,18 @@ The dashboard consists of **two pages**:
 * **Page 1 – Workforce Overview & Employee Insights**
 * **Page 2 – Employee Performance & Engagement**
 
+  ## 📸 Dashboard Preview
+
+### Page 1 – Workforce Overview & Employee Insights
+
+![HR Analytics Page 1](HR-Analytics-Page-1.png)
+
+
+### Page 2 – Employee Performance & Engagement
+
+![HR Analytics Page 2](HR-Analytics-Page-2.png)
+
+
 The project demonstrates practical skills in **Power BI, DAX, Power Query, data modeling, KPI development, and business-focused data visualization**.
 # HR-Analytics-Power-BI
 Interactive HR Analytics Dashboard built using Power BI, DAX and Power Query
