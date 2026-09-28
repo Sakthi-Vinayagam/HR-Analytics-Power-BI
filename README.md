@@ -11,16 +11,15 @@ The dashboard consists of **two pages**:
 * **Page 1 – Workforce Overview & Employee Insights**
 * **Page 2 – Employee Performance & Engagement**
 
-  ## 📸 Dashboard Preview
+ ## 📸 Dashboard Preview
 
 ### Page 1 – Workforce Overview & Employee Insights
 
-![HR Analytics Page 1](HR-Analytics-Page-1.png)
-
+![HR Analytics Page 1](<HR ANALYTICS (Workforce Overview & Employee Insights).png>)
 
 ### Page 2 – Employee Performance & Engagement
 
-![HR Analytics Page 2](HR-Analytics-Page-2.png)
+![HR Analytics Page 2](<HR ANALYTICS (Employee Performance & Engagement).png>)
 
 
 The project demonstrates practical skills in **Power BI, DAX, Power Query, data modeling, KPI development, and business-focused data visualization**.
